@@ -77,6 +77,8 @@ Although there are a few points where Depop goes wrong where other e-retailers a
     1. https://www.etsy.com
     2. The website is much better than depop due to the fact that it offers simple categorization and filters. It's crowded interface, inconsistent implementation and uninspiring choice of words make the site difficult to navigate. 
     
+![alt_text](https://github.com/sebdills/DH150-Assignment-1-Sebastien-Dills/blob/main/Screen%20Shot%202020-10-13%20at%203.45.05%20AM.png)
+    
 ### Visibility of system status
 Keeping users informed about what is going on. Each action should have an indication giving either an error or confirmation that the intended action is happening. 
  
