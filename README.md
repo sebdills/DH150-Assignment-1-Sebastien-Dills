@@ -6,10 +6,9 @@
 
 ### Depop.com
 
-1. A numbered list
-    1. A nested numbered list
-    2. Which is numbered
-2. Which is numbered Depop is a digital marketplace that advertises itself on being a sustainable way to buy used and vintage clothes online. 
+1. Depop is a digital marketplace that advertises itself on being a sustainable way to buy used and vintage clothes online. It is primary a mobile app but also has a website that offer the same core functionalities of buying and selling clothes. 
+    1. https://www.depop.com
+    2. The app is very solid but is restricted to mobile use. If you want to shop on Depop via a computer you are restricted by a very limited website that offers way less than the app version. The reason for this is unclear, but it almost seems as if the website is geared to push you towards using the app. This however restricts 60 percent of e-commerce that still happens via a laptop or desktop computer. The only method by which to find cloths is a limited search bar. In addition to this there is no catered content and the indivudal user is bascially expected to do most of the work of finding products using basic search functionality.
  
 1. Visibility of system status
   Keeping users informed about what is going on. Each action should have an idication giving either an error or confirmation that the intended action is happening. 
