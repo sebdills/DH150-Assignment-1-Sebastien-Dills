@@ -14,7 +14,7 @@
 Keeping users informed about what is going on. Each action should have an indication giving either an error or confirmation that the intended action is happening. 
  
  
-Evaluation
+##### Evaluation
 Once you arrive on the site it is unclear if you can even buy anything there, it prompts you to download the app despite the fact that you are on a computer and the app is only available via mobile. There is no reason for this to prompt you to download the app if you aren’t on mobile. Extremely poor login process. When making a new account asks for a phone number as the first step but requires use of email to recover the password. Errors are confusing and unclear on how to recover login info if forgotten. Prompted with “An unknown error has occurred” when entering login info from mobile account. I also came into several issues with the website recognizing an account made via mobile using my apple ID. It is almost as if the website is pushing you away from computer use in favor of the app on mobile. 
  
 ### Match between system and the real world
@@ -41,39 +41,39 @@ Clear and helpful comments to correct errors and logical action steps to make it
 ##### Evaluation
 There was little to no error prevention. Nothing allowed me to recover my old account using my phone number. When you try to make a new account the first thing it asks for is a phone number and it won’t let you proceed if your number is already tied to an account. If you try to make a new account but you already have one the only piece of information you have is which phone number is tied to your account, but you cannot use the same phone number to recover your username or password. Also the user cannot use phone number in place of email or username at time of login.  
  
-#### Recognition rather than recall
+### Recognition rather than recall
 Information should be accessibel on all steps of a set of actions. Hints and guidance should be offered when making choices. Labled and icons used when appropriate. 
  
 ##### Evaluation
 Especially through the lens of an older shopper who would likely feel more comfortable shopping on a computer over a mobile devise, the inconsistencies from the app to the website are extremely frustrating. The entire sight does not feel like it actually sells anything at first and doesn’t resemble the app in any way. This discrepancy might make even recognizing the website as the same as Depop difficult. 
  
-#### Flexibility and efficiency of use
+### Flexibility and efficiency of use
 Actions should be quick and easy for users who are experienced and unexprienced with your system. Shortcuts offered to make experiecned users progress though actions quickly, but not requried so that novice users can still understand what is going on. 
  
 ##### Evaluation
 The lack of search filters makes it extremely difficult to speed up looking for something specific. The use of hashtags and the ability to follow accounts you like does help this a little, but this requires a great deal of time spent and familiarity with/on the platform. Hashtags for an item of clothing are chosen by sellers. This allows for a great deal of inconsistencies and makes the use of hashtags an inadequate replacement for search filters. Lack of a cart adds needless steps to a user who knows what they are looking for. It is easier for an experienced user to find items based on accounts they choose to follow or postings they have liked or saved. 
  
-#### Aesthetic and minimalist design
+### Aesthetic and minimalist design
 Limit needless text and information. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility. 
  
 ##### Evaluation
 The design is quiet minimalist and easy to navigate given the functionality of the website. 
 
-#### Help users recognize, diagnose, and recover from errors
+### Help users recognize, diagnose, and recover from errors
 Expressed in simple language. Give clear instructions on how to fix issue. Indicate course of action. 
  
 ##### Evaluation
  Errors are confusing and unclear on how to recover login info if forgotten. Prompted with “An unknown error has occurred” when entering login info from mobile account. This is unhelpful and offers the user no course of action to remedy the issue. This error was given when logging into an existing account tied to an Apple ID account on mobile. You can’t recover your account using your phone number which would be the easiest considering most users have multiple emails and just a single phone number. You also cannot login using your phone number. 
  
  
-#### Help and documentation
+### Help and documentation
 If documentation is needed should be simple and clear for users to find.
  
 Evaluation
 Although there are a few points where Depop goes wrong where other e-retailers are not in terms of design. The website is simple enough to not require any documentation. Selling on the website is marginally more complicated but, in this case, adequate documentation is provided. 
  
-### Etsy.com
+## Etsy.com
 
 1. Etsy is also a digital marketplace but it carries far more products than just used clothes. You can buy art, jewlery and craft supplies. It also has a mobile app but Etsy is more focused on 
     1. https://www.etsy.com
-    2. The website is much better than depop due to the fact that it offers simple categorization and filters. 
+    2. The website is much better than depop due to the fact that it offers simple categorization and filters. It's crowded interface, inconsistent implementation and uninspring choice of words make the site difficult to navigate. 
