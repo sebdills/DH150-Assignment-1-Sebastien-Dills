@@ -69,7 +69,7 @@ Expressed in simple language. Give clear instructions on how to fix issue. Indic
 ### Help and documentation
 If documentation is needed should be simple and clear for users to find.
  
-Evaluation
+##### Evaluation
 Although there are a few points where Depop goes wrong where other e-retailers are not in terms of design. The website is simple enough to not require any documentation. Selling on the website is marginally more complicated but, in this case, adequate documentation is provided. 
  
 ## Etsy.com
