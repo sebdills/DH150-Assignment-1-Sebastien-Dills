@@ -6,10 +6,10 @@
 
 ### Depop.com
 
-Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered Depop is a digital marketplace that advertises itself on being a sustainable way to buy used and vintage clothes online. 
+1. A numbered list
+ 1. A nested numbered list
+ 2. Which is numbered
+2. Which is numbered Depop is a digital marketplace that advertises itself on being a sustainable way to buy used and vintage clothes online. 
  
 1. Visibility of system status
   Keeping users informed about what is going on. Each action should have an idication giving either an error or confirmation that the intended action is happening. 
