@@ -1,10 +1,8 @@
 # DH150-Assignment-1-Sebastien-Dills
 
-## Heuristics Evaluations of Depop.com and Etsy.com
- 
-## Sebastien Dills, Digital Humanities 150 Assignment 1                                  
+## Heuristics Evaluations of Depop.com and Etsy.com - Sebastien Dills, Digital Humanities 150 Assignment 1                                  
 
-### Depop.com
+## Depop.com
 
 1. Depop is a digital marketplace that advertises itself on being a sustainable way to buy used and vintage clothes online. It is primary a mobile app but also has a website that offer the same core functionalities of buying and selling clothes. 
     1. https://www.depop.com
@@ -12,32 +10,32 @@
     
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
  
-#### Visibility of system status
+### Visibility of system status
 Keeping users informed about what is going on. Each action should have an indication giving either an error or confirmation that the intended action is happening. 
  
  
 Evaluation
 Once you arrive on the site it is unclear if you can even buy anything there, it prompts you to download the app despite the fact that you are on a computer and the app is only available via mobile. There is no reason for this to prompt you to download the app if you aren’t on mobile. Extremely poor login process. When making a new account asks for a phone number as the first step but requires use of email to recover the password. Errors are confusing and unclear on how to recover login info if forgotten. Prompted with “An unknown error has occurred” when entering login info from mobile account. I also came into several issues with the website recognizing an account made via mobile using my apple ID. It is almost as if the website is pushing you away from computer use in favor of the app on mobile. 
  
-#### Match between system and the real world
+### Match between system and the real world
 Make terms/phrases used on the system accessible, intuitive and simple. Match digital systems to real life ones so users can pick up how the interface works quickly and easily. 
 
 ##### Evaluation
 This site is unlike most others in terms of its basic functionality. No explore function (beyond a set of default results below search bar), no items are highlighted, no filters or categories. Part of this is because of Depop’s use of independent sellers, but there is no reason why they can’t have sellers select several categories to fit items into (brand, size etc) and then categories using dropdown menus like any other ecommerce fashion website. Icons used are standard, letter icon to share, heart to like, tab to save. 
  
-#### User control and freedom
+### User control and freedom
 Give the user control over the system, errors should be easy to fix/go back to a earlier step. Steps should flow nicey, intuitivly and quickly. Actions should not have needless steps. 
  
 ##### Evaluation
 Once you’ve given the platform your sizes, brands you are interested in, and other fashion interests you are allowed to update this manually but finding this can be extremely confusing as it is not setting tab where you would expect it. In addition to this once you search for an item and look through the results, if you click on a specific piece and then want to go back to their original search results there is not option within the website to do so. Instead you need to click on the back arrow on your web browser. This forces you to reload the page and brings you back to the top of the search results (so you need to continue to scroll and find where you were on your own). There is also no cart function on this website, you must order each item one at a time and completely refill the same information multiple times. While is may be due to the fact that items are sold from independent sellers, this is no excuse as Depop has laid off the extra effort of communicating buyer information to multiple seller to the users of their website.
 
-#### Consistency and standards
+### Consistency and standards
 Consistent verbage should be used. Actions/interface should mimick standard practices in order to make platform easy to naviage. Different actions/options should be distiguishable and clear. 
  
 ##### Evaluation
 Only offers shopping via a “search” bar. Offers no ability to filter searches; by price, sizes, sex, brand, etc. No dropdown menu to sort items. Extremely different platform and much limited functionality compared to app. App caters your feed given information you give it and allows for way more filter/functionality than website. Is confusing and frustrating to use website that is so inferior to the app in every way. There is no reason to not offer same functionality on computers as there is on mobile. Some people might like shopping on computers more. 
  
-#### Error prevention
+### Error prevention
 Clear and helpful comments to correct errors and logical action steps to make it difficult to have an error to begin with.  Restrict uneeded or pointless actions. 
  
 ##### Evaluation
