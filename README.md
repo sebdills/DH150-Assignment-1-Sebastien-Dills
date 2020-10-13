@@ -1,6 +1,8 @@
 # DH150-Assignment-1-Sebastien-Dills
 
-## Heuristics Evaluations of Depop.com and Etsy.com - Sebastien Dills, Digital Humanities 150 Assignment 1                                  
+## Heuristics Evaluations of Depop.com and Etsy.com - Sebastien Dills, Digital Humanities 150 Assignment 1 
+
+I will be analyzing two vintage e-commerce retail websites with the goal of better understanding what makes them well and poorly designed. Ultimately my goal would be to design a better online vintage clothes store that draws from positive aspects and learns from negative aspects of other sites. 
 
 ## Depop.com
 
