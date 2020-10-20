@@ -2,7 +2,7 @@
 
 ## Heuristics Evaluations of Depop.com and Etsy.com - Sebastien Dills, Digital Humanities 150 Assignment 1 
 
-I will be analyzing two vintage e-commerce retail websites with the goal of better understanding what makes them well and poorly designed. Ultimately my goal would be to design a better online vintage clothes store that draws from positive aspects and learns from negative aspects of other sites. 
+I will be analyzing two vintage e-commerce retail websites with the goal of better understanding what makes them well and poorly designed. Ultimately my goal would be to design a better online vintage clothes store that draws from positive aspects and learns from negative aspects of other sites. The reason I chose these is because they are very commonly used by any demographic with a middle aged female being no execption. Etsy might be more commonly used by older people whereas depop might be more common with younger people due to its mobile presence. I did this intentionally to see how both would work in the context of our user. 
 
 ## Depop.com
 
